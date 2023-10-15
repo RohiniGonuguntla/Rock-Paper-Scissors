@@ -1,0 +1,26 @@
+.Header {
+  display: flex;
+  justify-content: space-evenly;
+  border: 5px #ffffff solid;
+  padding: 1%;
+  margin: 2%;
+  border-radius: 10px;
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 20px;
+}
+
+.score-board-container {
+  background-color: #ffffff;
+  color: #223a5f;
+  align-self: center;
+  padding: 2%;
+  border-radius: 5px;
+  text-align: center;
+  font-size: 30px;
+  font-family: 'Roboto';
+}
+.score {
+  color: #ffffff;
+  font-family: 'Roboto';
+}

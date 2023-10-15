@@ -1,0 +1,34 @@
+.rules-img {
+  width: 100%;
+}
+
+.closeButtonContainer {
+  display: flex;
+  justify-content: flex-end;
+  align-self: flex-start;
+  border-width: 0px;
+}
+.icon {
+  color: black;
+  font-size: 25px;
+}
+.trigger-button {
+  background-color: #ffffff;
+  color: #223a5f;
+  align-self: center;
+  padding: 0.5%;
+  border-radius: 5px;
+  text-align: center;
+  font-size: 20px;
+}
+@media screen and (max-width: 768px) {
+  .icon {
+    font-size: 20px;
+  }
+}
+
+.card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
